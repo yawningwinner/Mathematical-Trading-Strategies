@@ -1,0 +1,20 @@
+Name - Arin Dhariwal
+Roll number - 220198
+**Stocks** - 
+1) Apple("AAPL")
+2) Amazon("AMZN")
+3) Tesla("TSLA")
+4) Microsoft("MSFT")
+5) Meta("META")
+```
+**Indexes** - 
+```
+1) S&P 500("^GSPC")
+2) Dow Jones Industrial Average("^DJI")
+3) Nasdaq Composite("^IXIC")
+4) Nikkei 225("^N225") on Tokya SE
+5) Financial Times Stock Exchange 100("^FTSE") on London SE
+## Python Code
+
+The google colab file  - 
+https://colab.research.google.com/drive/1b5AvZPhTCW8rq3yzVfEdERWzYMfUjuEQ?usp=sharing
